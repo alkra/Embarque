@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+
+# emacs backup
+*~
+
+# Output files
+intrusion*
+blink
+sensor
